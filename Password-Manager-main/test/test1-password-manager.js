@@ -1,4 +1,4 @@
-console.log("Test file loaded");
+console.log("Test file loading");
 const expect = require('expect.js');
 const crypto = require('crypto');
 const PasswordManager = require('../password-manager');
